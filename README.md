@@ -11,7 +11,7 @@ more AI-generated assets will be included there from:
 * https://creator.nightcafe.studio/collection/3C4Z7gbpmOyDTACYI795
 * https://creator.nightcafe.studio/collection/wo9EDd6MNQ89nVS9NFQ7
 
-outdoor location illustrations at Nightcafe are based on photos ([CC BY-SA licensed](https://creativecommons.org/licenses/by-sa/4.0/)) from Mapillary. We share our photos at:
+outdoor location illustrations at Nightcafe are based on photos ([CC BY-SA licensed](https://creativecommons.org/licenses/by-sa/4.0/)) from Mapillary. We share our own photos there at:
 * https://www.mapillary.com/app/user/Zoomicon
 * https://www.mapillary.com/app/user/Erifilenia
 * https://www.mapillary.com/app/user/Politi
